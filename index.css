@@ -1,0 +1,11 @@
+.social-icons {
+    position: absolute;
+    bottom: 0;
+    left:0;
+    text-decoration: none;
+    font-size: x-large;
+}
+.jumbotron{
+    background-image: url("https://front-end-essential-practice.web.app/caspar-camille-rubin-fPkvU7RDmCo-unsplash.jpg");
+    background-size: cover;
+}
